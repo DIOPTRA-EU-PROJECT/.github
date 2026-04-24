@@ -4,8 +4,8 @@ Welcome to the official open-source organization for the **DIOPTRA** initiative.
 
 ## 🛠 Project Ecosystem
 This organization serves as a central hub for the software outputs developed by our consortium partners, including:
-* **Docker Images:** Ready-to-deploy containerized microservices.
-* **API Specifications:** Standardized interfaces for [mention what they do].
+
+* **API Specifications:** Standardized interfaces for DIOPTRA services.
 * **Open Source Code:** Core libraries, tools, and integration scripts.
 
 ---
