@@ -2,7 +2,7 @@
 
 Welcome to the official open-source organization for the **DIOPTRA** initiative. This project is a collaborative effort funded by the European Union to introduce a front-line screening tool that will consider risk factors and protein biomarkers for pinpointing individuals at a high risk for colorectal cancer (CRC) incidence. Tissue & blood samples will be examined towards a discriminative set of prognostic proteins that are detectable via standard bloodwork and can indicate a need for further evaluation (i.e. colonoscopy). Other data (e.g. medical, behavioural) will also be considered as potential risk factors. Artificial intelligence (AI) will be leveraged for assessing prognostic power, while personalised behavioural change will be promoted based on modifiable risk factors. Given the low citizen participation on CRC screening across EU, DIOPTRA seeks to broaden the evaluated population, boosting participation rates and bypassing age screening thresholds. This action is part of the Cancer Mission cluster of projects on ‘Prevention, including Screening’.
 
-## 🛠 Project Ecosystem
+## Project Ecosystem
 This organization serves as a central hub for the software outputs developed by our consortium partners, including:
 
 * **API Specifications:** Standardized interfaces for DIOPTRA services.
@@ -10,7 +10,7 @@ This organization serves as a central hub for the software outputs developed by 
 
 ---
 
-## ⚖️ Licensing
+## Licensing
 To maximize impact and facilitate commercial adoption by both public and private sectors, all software in this organization is released under the:
 
 **[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)**
